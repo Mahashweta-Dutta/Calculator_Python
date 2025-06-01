@@ -61,7 +61,7 @@ Feel free to fork the project or suggest improvements!
 
 **Name:** Mahashweta Dutta
 📧 Contact: [mahashwetadutta13@gmail.com]
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+**GitHub:** [[github.com/yourusername](https://github.com/yourusername)  ](https://github.com/Mahashweta-Dutta/Calculator_Python)
 **LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/mahashweta-dutta-71b02428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 Feel free to reach out if you have any questions or feedback!
